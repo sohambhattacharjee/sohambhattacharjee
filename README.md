@@ -4,10 +4,11 @@ I'm a principal software engineer working on e-commerce checkout, payments, and 
 
 I'm exploring how agentic commerce protocols can make buyer authorization explicit when an agent checks out on someone's behalf.
 
-## Upstream pull requests
+## Open source
 
 - [Temporal's Go order management reference app](https://github.com/temporalio/reference-app-orders-go/pull/137) — integration test for recovering an order after a worker restarts without creating a duplicate.
-- [Hyperswitch's Saleor payment app](https://github.com/juspay/hyperswitch-saleor-payment-app/pull/98) — fix for a payment status lookup that failed before reaching the processor.
+- [Hyperswitch's Saleor payment app](https://github.com/juspay/hyperswitch-saleor-payment-app/pull/98) — fix for a payment status lookup that failed before reaching Hyperswitch.
+- [Universal Commerce Protocol conformance](https://github.com/Universal-Commerce-Protocol/conformance/issues/131) — proposal for testing checkout recovery after the completion response is lost.
 
 ## Projects
 
